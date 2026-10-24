@@ -1,1 +1,1 @@
-[![GitHub Statistics](https://github-stats-extended.vercel.app/api?username=pastelbrownn&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=pastelbrownn&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pastelbrownn&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=pastelbrownn&show_icons=true&include_all_commits=true&theme=dark)
